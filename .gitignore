@@ -1,0 +1,9 @@
+target/
+*.log
+*.class
+.env
+application.properties
+application-dev.properties
+.idea/
+.vscode/
+.metadata/
